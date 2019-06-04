@@ -1,0 +1,64 @@
+
+@media only screen and (max-width: 767px){
+
+
+.header-text h1 {
+          font-size: 20px;
+    padding-top: 100px;
+    text-align: center;
+}
+.navbar-brand img{
+
+	margin-left: -25px;
+	width: 70px;
+	height: 70px;
+}
+.navbar-toggle span{
+
+	background-color: black;
+}
+.btn-download{
+
+	padding: 3px;
+	font-size: 15px;
+}
+.btn-tour{
+
+	padding: 0px;
+	font-size: 15px;
+}
+.header-image{
+
+	 margin-left: 30px;
+	 margin-top: 40px;
+    padding: 5px;
+    width: 250px;
+    height: 251px;
+}
+
+h2.small{
+
+	font-size: 24px;
+	margin-top: 0px;
+
+}
+.testimonial {
+    margin: 15px 0px;
+    margin-top: 85px;
+    margin-left: 10px;
+    padding: 15px 15px;
+}
+.image{
+
+	margin-left: 75px;
+}
+
+.project-p{
+
+	font-size: 20px;
+}
+
+body{
+	overflow-x: hidden;
+}
+}
